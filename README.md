@@ -41,7 +41,7 @@ As shown in the DataFrame riders in rural cities pay on average approximately $1
 The multiple-line graph "Total Fare by City Type" provides the trend for total fares for each city type (Urban,Suburban,Rural) between the months of January and April 2019. The yellow trend line corresponds to urban cities total fares by month. The orange trend line corresponds to suburban cities total fares by month and the blue trend line corresponds to rural cities total fares by month. Total fare for urban cities do not fall below $1,600 and reach as high as $2500, while suburban cities highest total fare falls below $1,500. Rural cities highest total fare peak is $500 in april 2019.It's important to note the all three type of cities had a spike in total fares at the end of February 2019.
 
 ## Summary:
-1. The majority of PyBer ridesharing revenue comes from urban cities.This is probably due to the low demand of rides.
+1. The majority of PyBer ridesharing revenue comes from urban cities.This is probably due to the high demand of rides.
 2. Drivers is rural cities are earning more than drivers in urban cities.This could be due to the low amount of drivers available in rural cities.
 3. The average fare per ride in rural cities cost more than urban and suburban cities.This can be due to the longevity of the ride or distance.
 4. Further analysis should be done to determine other factors that are contributing to the high ride costs in rural cities and low driver fares in urban cities.For example, travel distance per ride and time per ride.
