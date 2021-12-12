@@ -31,10 +31,11 @@ As shown in the DataFrame riders in rural cities pay on average approximately $1
 
 ### **Weekly_sum_fares_df**
 
+Shows the total fare by city type and date:
 ![](Images/weekly_sum_fares_df.png)
 
 
-### **Weekly_sum_fares_df Line Graph**
+### **Weekly_sum_fares_df Multiple-Line Graph**
 
 ![](Images/weekly_sum_fares_df_linegraph.png)
 
