@@ -14,3 +14,6 @@ Create a pie chart that visualizes each of the following data for each city type
 The percent of total fares.
 The percent of total rides.
 The percent of total drivers.
+Deliverable 1: A ride-sharing summary DataFrame by city type
+Deliverable 2: A multiple-line chart of total fares for each city type
+Deliverable 3: A written report for the PyBer analysis (README.md)
