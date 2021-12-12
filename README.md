@@ -15,11 +15,11 @@ To compare and contrast ride-sharing data among the different city types (Urban,
 >3. Create a written report for the PyBer analysis that summarizes how the data differes by city type and how those differences can be used by decision_makers at PyBer.
 
 # Results:
-###**PyBer_ride_summary_df**
+### **PyBer_ride_summary_df**
 
 ![](Images/PyBer_summary_df.png)
 
-###**Key findings:**
+### **Key findings:**
 
 * Rural cities have the highest average fare per driver while urban cities have the lowest.
 * Rural cities have the highest average fare per driver while urban cities have the lowest.
@@ -29,12 +29,12 @@ To compare and contrast ride-sharing data among the different city types (Urban,
 
 As shown in the DataFrame riders in rural cities pay on average approximately $10 more for PyBer than riders in urban cities. The average fare per ride is approximately $35 in rural cities whereas the average fare per ride is approximately $25 in urban cities. Suburban cities average fare per ride falls in the middle at approximately $31. Therefore riders pay more for PyBer in rural cities while paying less at urban cities. However, rural city drivers on average make more than urban city drivers.
 
-###**Weekly_sum_fares_df**
+### **Weekly_sum_fares_df**
 
 ![](Images/weekly_sum_fares_df.png)
 
 
-###**Weekly_sum_fares_df Line Graph**
+### **Weekly_sum_fares_df Line Graph**
 
 ![](Images/weekly_sum_fares_df_linegraph.png)
 
